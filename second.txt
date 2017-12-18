@@ -1,2 +1,1 @@
-second
-
+This is a second file that has been edited within the Github web UI.
